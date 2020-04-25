@@ -1,0 +1,19 @@
+body{
+  font-family: 'Hind Siliguri', sans-serif;
+}
+.card{
+  border: none;
+}
+.card-title{
+  color: #222831;
+  font-weight: 600;
+}
+p{
+  color: #393e46;
+ /* color: #454d66;*/
+  font-weight: 300;
+}
+button{
+  font-weight: 400;
+}
+
